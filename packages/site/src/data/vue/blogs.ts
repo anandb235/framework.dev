@@ -26,8 +26,7 @@ export const blogs: Blog<typeof blogTags[number]>[] = [
 		author: "Alex “hootlex” Kyriakidis",
 		description:
 			"Vue School aims to help the Vue.js community and framework grow, and all our content is in-depth, relevant, and expertly created.",
-		image:
-			"https://github.com/anandb235/framework.dev/blob/e659c063426b6a066c24128e06300d51b692b5ff/packages/site/public/vue-school-logo.png?raw=true",
+		image: "https://github.com/vueschool.png",
 		href: "https://vueschool.io/articles/",
 		tags: [],
 	},
